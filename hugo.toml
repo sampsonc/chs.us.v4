@@ -1,0 +1,75 @@
+baseurl = "/"
+title = "chs.us"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+mainSections = ["post", "blog", "news"]
+name = "Carl Sampson"
+
+[services.googleAnalytics]
+  ID = "G-VZ6PZ8R38Y" # Enable Google Analytics by entering your tracking ID
+
+[Author]
+  name = "Carl Sampson"
+  bio = "I'm an application security geek."
+
+[params.author]
+  name = "Carl Sampson"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/chs_avatar.jpg"
+
+[Params]
+  description = "John Doe's Personal blog about everything" # Description of your site
+  opengraph = true
+  twitter_cards = true
+  readmore = false # Show "Read more" button in list if true
+  name = "Carl Sampson"
+  #authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["post", "docs"]
+
+[Params.logo]
+  subtitle = "Ramblings by chs" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 10 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  #facebook = "username"
+  twitter = "chs"
+  #instagram = "username"
+  linkedin = "carlsampson"
+  telegram = "sampsonc"
+  github = "sampsonc"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "chs@chs.us"
+
+  [[menu.main]]
+    name = "blog"
+    pre = "<i class='fa fa-road'></i>"
+    url = "//blog/"
+    weight = -100
+
+  [[menu.main]]
+    name = "appsec.fyi"
+    pre = "<i class='fa fa-road'></i>"
+    url = "https://appsec.fyi/"
+    weight = -100
+
+  [[menu.main]]
+    name = "ssrf.world"
+    pre = "<i class='fa fa-road'></i>"
+    url = "https://ssrf.world/"
+    weight = -100

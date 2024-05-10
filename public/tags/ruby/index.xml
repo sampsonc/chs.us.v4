@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ruby on chs.us</title><link>/tags/ruby/</link><description>Recent content in Ruby on chs.us</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2020 14:05:18 -0500</lastBuildDate><atom:link href="/tags/ruby/index.xml" rel="self" type="application/rss+xml"/><item><title>Writing a Burp Extension in Ruby Part 1</title><link>/blog/burp_plugin_ruby_part_1/</link><pubDate>Wed, 18 Nov 2020 14:05:18 -0500</pubDate><guid>/blog/burp_plugin_ruby_part_1/</guid><description>Writing a Burp Extension in Ruby Burp extensions can be written in 3 languages - Java, Python, and Ruby. Since Burp is a java app, in order to write extensions in Python you need Jython and in Ruby you need JRuby. For this example, we&amp;rsquo;ll use Ruby.
+Step 1 - Downloading JRuby The first step is to download JRuby from https://jruby.org/download.
+For this example we will be using the latest - 9.</description></item><item><title>New version of jekyll-clicky!</title><link>/blog/new-version-of-jekyll-clicky/</link><pubDate>Fri, 01 Jun 2018 04:21:30 +0000</pubDate><guid>/blog/new-version-of-jekyll-clicky/</guid><description>I’ve updated jekyll-clicky to version 0.1.3. This fixes an issue where some posts weren’t getting the javascript code and changed it to be asynchronous..
+Check it out at RubyGems and find the source at Github.</description></item><item><title>2 Gems Updated</title><link>/blog/gemsupdated/</link><pubDate>Wed, 20 Dec 2017 02:57:52 +0000</pubDate><guid>/blog/gemsupdated/</guid><description>PwnedCheck
+PwnedCheck is a gem that checks http://haveibeenpwned.com to see if an email address or user handle has been involved in a breach.
+How to Install
+How to Use
+Jekyll-Clicky
+Jekyll-clicky is a gem to add clicky analytics to a site generated with Jekyll.
+Installation
+Add this line to your application’s Gemfile:
+And then execute:
+Or install it yourself as:
+### Usage Add-
+to _config.yml in your jekyll site directory. Replace ### with the id of your clicky site.</description></item></channel></rss>
