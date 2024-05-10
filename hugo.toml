@@ -73,3 +73,9 @@ name = "Carl Sampson"
     pre = "<i class='fa fa-road'></i>"
     url = "https://ssrf.world/"
     weight = -100
+
+  [[menu.main]]
+    name = "links"
+    pre = "<i class='fa fa-road'></i>"
+    url = "//links/"
+    weight = -100
