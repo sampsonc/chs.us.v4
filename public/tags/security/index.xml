@@ -1,68 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Security on chs.us</title>
-    <link>//localhost:60471/tags/security/</link>
-    <description>Recent content in Security on chs.us</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:60471/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HTML5 PostMessage Security: Protecting Cross-Origin Communication</title>
-      <link>//localhost:60471/html5-postmessage-security/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60471/html5-postmessage-security/</guid>
-      <description>HTML5 introduced a powerful feature called postMessage that allows secure communication between different origins or domains. While this functionality provides a convenient way to exchange data across frames or windows, it also poses potential security risks if not implemented correctly. In this article, we will explore the security considerations of using postMessage and discuss best practices to protect cross-origin communication.&#xA;Understanding postMessage postMessage is an HTML5 feature that enables asynchronous communication between different browsing contexts.</description>
-    </item>
-    <item>
-      <title>Content Security Policy (CSP)</title>
-      <link>//localhost:60471/blog/csp/</link>
-      <pubDate>Mon, 08 Aug 2022 09:16:20 -0400</pubDate>
-      <guid>//localhost:60471/blog/csp/</guid>
-      <description>Content Security Policy (CSP) is a security measure that helps protect web applications from various attacks, including Cross-Site Scripting (XSS) and data injection. CSP works by specifying a set of Content Security Rules that dictate what resources are allowed to load on a page. This can be used to whitelist trusted sources of content, or to block untrusted content entirely.&#xA;One advantage of Content Security Policy is that it can help to prevent malicious code from running on a page.</description>
-    </item>
-    <item>
-      <title>New Project!</title>
-      <link>//localhost:60471/blog/new-project/</link>
-      <pubDate>Sun, 26 Jan 2020 06:25:39 +0000</pubDate>
-      <guid>//localhost:60471/blog/new-project/</guid>
-      <description>Today I started a new project that I’ve been thinking about for awhile. It’s located at – https://appsec.fyi. It is a growing collection of interesting links that I’ve found regarding varying application security topics. The basic site is up and the plumbing is there. Just need to add more content. Check it out!</description>
-    </item>
-    <item>
-      <title>AuthHeader Updater listed on snoopysecurity/awesome-burp-extensions</title>
-      <link>//localhost:60471/blog/authheader-updater-listed-on-snoopysecurity-awesome-burp-extensions/</link>
-      <pubDate>Sun, 25 Nov 2018 01:40:01 +0000</pubDate>
-      <guid>//localhost:60471/blog/authheader-updater-listed-on-snoopysecurity-awesome-burp-extensions/</guid>
-      <description>Excited to see AuthHeader Updater on a list of awesome burp extensions!</description>
-    </item>
-    <item>
-      <title>New Burp Extension – Perfmon</title>
-      <link>//localhost:60471/blog/new-burp-extension-perfmon/</link>
-      <pubDate>Wed, 23 May 2018 04:23:30 +0000</pubDate>
-      <guid>//localhost:60471/blog/new-burp-extension-perfmon/</guid>
-      <description>Just whipped together a new Burp extension called perfmon (not to be confused with the Windows tool of the same name). I was really interested in the the resource usage of Burp while doing certain activities.&#xA;It adds a new tab to Burp and samples every 5 seconds-&#xA;Current and max number of threads in use&#xA;Current and max memory used&#xA;Current and max memory allocated&#xA;Ticker to set how often the stats update.</description>
-    </item>
-    <item>
-      <title>Secure Design Principles</title>
-      <link>//localhost:60471/blog/secure-design-principles/</link>
-      <pubDate>Sat, 23 Dec 2017 02:50:37 +0000</pubDate>
-      <guid>//localhost:60471/blog/secure-design-principles/</guid>
-      <description>Sitting here on a cold, snowy day thinking about secure design principles. These are key to think about during the design phase of a feature/project?&#xA;Total Mediation – every access to every resource must be validated every time&#xA;Economy of Mechanism – keep it as simple as possible&#xA;Fail-Safe – in case of failure, default to a secure state&#xA;Defense in Depth – layer security&#xA;Open Design – the security of a system should not be dependent on secrecy of its design or implementation</description>
-    </item>
-    <item>
-      <title>2 Gems Updated</title>
-      <link>//localhost:60471/blog/gemsupdated/</link>
-      <pubDate>Wed, 20 Dec 2017 02:57:52 +0000</pubDate>
-      <guid>//localhost:60471/blog/gemsupdated/</guid>
-      <description>PwnedCheck&#xA;PwnedCheck is a gem that checks http://haveibeenpwned.com to see if an email address or user handle has been involved in a breach.&#xA;How to Install&#xA;How to Use&#xA;Jekyll-Clicky&#xA;Jekyll-clicky is a gem to add clicky analytics to a site generated with Jekyll.&#xA;Installation&#xA;Add this line to your application’s Gemfile:&#xA;And then execute:&#xA;Or install it yourself as:&#xA;### Usage Add-&#xA;to _config.yml in your jekyll site directory. Replace ### with the id of your clicky site.</description>
-    </item>
-    <item>
-      <title>Extending Burp at DerbyCon VII</title>
-      <link>//localhost:60471/blog/extendingburptalk/</link>
-      <pubDate>Fri, 22 Sep 2017 03:02:52 +0000</pubDate>
-      <guid>//localhost:60471/blog/extendingburptalk/</guid>
-      <description>Just finished my talk about extending Burp at Derbycon VII. Thanks to everyone that attended! I’m really thankful for the opportunity to present on the topic.&#xA;The Details-&#xA;Slides –&#xA;Video in Slides (Slide 14)&#xA;Source Code – https://github.com/sampsonc/searchplusplus&#xA;Video of the Presentation&#xA;I’d love to hear any comments/questions.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on chs.us</title><link>/tags/security/</link><description>Recent content in Security on chs.us</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>HTML5 PostMessage Security: Protecting Cross-Origin Communication</title><link>/html5-postmessage-security/</link><pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate><guid>/html5-postmessage-security/</guid><description>HTML5 introduced a powerful feature called postMessage that allows secure communication between different origins or domains. While this functionality provides a convenient way to exchange data across frames or windows, it also poses potential security risks if not implemented correctly. In this article, we will explore the security considerations of using postMessage and discuss best practices to protect cross-origin communication.
+Understanding postMessage postMessage is an HTML5 feature that enables asynchronous communication between different browsing contexts.</description></item><item><title>Content Security Policy (CSP)</title><link>/blog/csp/</link><pubDate>Mon, 08 Aug 2022 09:16:20 -0400</pubDate><guid>/blog/csp/</guid><description>Content Security Policy (CSP) is a security measure that helps protect web applications from various attacks, including Cross-Site Scripting (XSS) and data injection. CSP works by specifying a set of Content Security Rules that dictate what resources are allowed to load on a page. This can be used to whitelist trusted sources of content, or to block untrusted content entirely.
+One advantage of Content Security Policy is that it can help to prevent malicious code from running on a page.</description></item><item><title>New Project!</title><link>/blog/new-project/</link><pubDate>Sun, 26 Jan 2020 06:25:39 +0000</pubDate><guid>/blog/new-project/</guid><description>Today I started a new project that I’ve been thinking about for awhile. It’s located at – https://appsec.fyi. It is a growing collection of interesting links that I’ve found regarding varying application security topics. The basic site is up and the plumbing is there. Just need to add more content. Check it out!</description></item><item><title>AuthHeader Updater listed on snoopysecurity/awesome-burp-extensions</title><link>/blog/authheader-updater-listed-on-snoopysecurity-awesome-burp-extensions/</link><pubDate>Sun, 25 Nov 2018 01:40:01 +0000</pubDate><guid>/blog/authheader-updater-listed-on-snoopysecurity-awesome-burp-extensions/</guid><description>Excited to see AuthHeader Updater on a list of awesome burp extensions!</description></item><item><title>New Burp Extension – Perfmon</title><link>/blog/new-burp-extension-perfmon/</link><pubDate>Wed, 23 May 2018 04:23:30 +0000</pubDate><guid>/blog/new-burp-extension-perfmon/</guid><description>Just whipped together a new Burp extension called perfmon (not to be confused with the Windows tool of the same name). I was really interested in the the resource usage of Burp while doing certain activities.
+It adds a new tab to Burp and samples every 5 seconds-
+Current and max number of threads in use
+Current and max memory used
+Current and max memory allocated
+Ticker to set how often the stats update.</description></item><item><title>Secure Design Principles</title><link>/blog/secure-design-principles/</link><pubDate>Sat, 23 Dec 2017 02:50:37 +0000</pubDate><guid>/blog/secure-design-principles/</guid><description>Sitting here on a cold, snowy day thinking about secure design principles. These are key to think about during the design phase of a feature/project?
+Total Mediation – every access to every resource must be validated every time
+Economy of Mechanism – keep it as simple as possible
+Fail-Safe – in case of failure, default to a secure state
+Defense in Depth – layer security
+Open Design – the security of a system should not be dependent on secrecy of its design or implementation</description></item><item><title>2 Gems Updated</title><link>/blog/gemsupdated/</link><pubDate>Wed, 20 Dec 2017 02:57:52 +0000</pubDate><guid>/blog/gemsupdated/</guid><description>PwnedCheck
+PwnedCheck is a gem that checks http://haveibeenpwned.com to see if an email address or user handle has been involved in a breach.
+How to Install
+How to Use
+Jekyll-Clicky
+Jekyll-clicky is a gem to add clicky analytics to a site generated with Jekyll.
+Installation
+Add this line to your application’s Gemfile:
+And then execute:
+Or install it yourself as:
+### Usage Add-
+to _config.yml in your jekyll site directory. Replace ### with the id of your clicky site.</description></item><item><title>Extending Burp at DerbyCon VII</title><link>/blog/extendingburptalk/</link><pubDate>Fri, 22 Sep 2017 03:02:52 +0000</pubDate><guid>/blog/extendingburptalk/</guid><description>Just finished my talk about extending Burp at Derbycon VII. Thanks to everyone that attended! I’m really thankful for the opportunity to present on the topic.
+The Details-
+Slides –
+Video in Slides (Slide 14)
+Source Code – https://github.com/sampsonc/searchplusplus
+Video of the Presentation
+I’d love to hear any comments/questions.</description></item></channel></rss>

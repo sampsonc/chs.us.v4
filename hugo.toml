@@ -63,6 +63,12 @@ name = "Carl Sampson"
     weight = -100
 
   [[menu.main]]
+    name = "Goodreads Library"
+    pre = "<i class='fa fa-road'></i>"
+    url = "//goodreads_library/"
+    weight = -100
+
+  [[menu.main]]
     name = "appsec.fyi"
     pre = "<i class='fa fa-road'></i>"
     url = "https://appsec.fyi/"
