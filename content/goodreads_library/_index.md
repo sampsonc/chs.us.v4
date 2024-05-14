@@ -1,5 +1,5 @@
 ---
-title: "Currently Reading"
+title: "Goodreads Library"
 date: 2024-05-10T09:00:50-05:00
 draft: false
 type: page
