@@ -63,9 +63,9 @@ name = "Carl Sampson"
     weight = -100
 
   [[menu.main]]
-    name = "Goodreads Library"
+    name = "Currently Reading"
     pre = "<i class='fa fa-road'></i>"
-    url = "//goodreads_library/"
+    url = "//currently_reading/"
     weight = -100
 
   [[menu.main]]
