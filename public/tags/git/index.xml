@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on chs.us</title><link>/tags/git/</link><description>Recent content in Git on chs.us</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>What is GitHub CoPilot?</title><link>/blog/what-is-github-copilot/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>/blog/what-is-github-copilot/</guid><description>GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It uses machine learning algorithms to assist developers in writing code by suggesting code snippets based on the context of the code being written. This powerful tool has the ability to autocomplete code, provide inline documentation, and generate entire functions, making coding easier and more efficient.
-GitHub Copilot is built on top of OpenAI&amp;rsquo;s GPT-3 language model, which has been trained on a vast amount of data from a variety of sources, including code repositories, documentation, and programming languages.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on chs.us</title>
+    <link>//localhost:60471/tags/git/</link>
+    <description>Recent content in Git on chs.us</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:60471/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is GitHub CoPilot?</title>
+      <link>//localhost:60471/blog/what-is-github-copilot/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:60471/blog/what-is-github-copilot/</guid>
+      <description>GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It uses machine learning algorithms to assist developers in writing code by suggesting code snippets based on the context of the code being written. This powerful tool has the ability to autocomplete code, provide inline documentation, and generate entire functions, making coding easier and more efficient.&#xA;GitHub Copilot is built on top of OpenAI&amp;rsquo;s GPT-3 language model, which has been trained on a vast amount of data from a variety of sources, including code repositories, documentation, and programming languages.</description>
+    </item>
+  </channel>
+</rss>

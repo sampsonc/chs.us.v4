@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nature on chs.us</title><link>/tags/nature/</link><description>Recent content in Nature on chs.us</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 09:16:20 -0400</lastBuildDate><atom:link href="/tags/nature/index.xml" rel="self" type="application/rss+xml"/><item><title>Turtle Cove Snorkeling</title><link>/blog/turtle-cove-snorkeling/</link><pubDate>Mon, 24 Jul 2023 09:16:20 -0400</pubDate><guid>/blog/turtle-cove-snorkeling/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature on chs.us</title>
+    <link>//localhost:60471/tags/nature/</link>
+    <description>Recent content in Nature on chs.us</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 09:16:20 -0400</lastBuildDate>
+    <atom:link href="//localhost:60471/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turtle Cove Snorkeling</title>
+      <link>//localhost:60471/blog/turtle-cove-snorkeling/</link>
+      <pubDate>Mon, 24 Jul 2023 09:16:20 -0400</pubDate>
+      <guid>//localhost:60471/blog/turtle-cove-snorkeling/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

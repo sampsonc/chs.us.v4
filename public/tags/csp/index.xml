@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Csp on chs.us</title><link>/tags/csp/</link><description>Recent content in Csp on chs.us</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 09:16:20 -0400</lastBuildDate><atom:link href="/tags/csp/index.xml" rel="self" type="application/rss+xml"/><item><title>Content Security Policy (CSP)</title><link>/blog/csp/</link><pubDate>Mon, 08 Aug 2022 09:16:20 -0400</pubDate><guid>/blog/csp/</guid><description>Content Security Policy (CSP) is a security measure that helps protect web applications from various attacks, including Cross-Site Scripting (XSS) and data injection. CSP works by specifying a set of Content Security Rules that dictate what resources are allowed to load on a page. This can be used to whitelist trusted sources of content, or to block untrusted content entirely.
-One advantage of Content Security Policy is that it can help to prevent malicious code from running on a page.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Csp on chs.us</title>
+    <link>//localhost:60471/tags/csp/</link>
+    <description>Recent content in Csp on chs.us</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 09:16:20 -0400</lastBuildDate>
+    <atom:link href="//localhost:60471/tags/csp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Security Policy (CSP)</title>
+      <link>//localhost:60471/blog/csp/</link>
+      <pubDate>Mon, 08 Aug 2022 09:16:20 -0400</pubDate>
+      <guid>//localhost:60471/blog/csp/</guid>
+      <description>Content Security Policy (CSP) is a security measure that helps protect web applications from various attacks, including Cross-Site Scripting (XSS) and data injection. CSP works by specifying a set of Content Security Rules that dictate what resources are allowed to load on a page. This can be used to whitelist trusted sources of content, or to block untrusted content entirely.&#xA;One advantage of Content Security Policy is that it can help to prevent malicious code from running on a page.</description>
+    </item>
+  </channel>
+</rss>
