@@ -16,11 +16,11 @@ name = "Carl Sampson"
 
 [params.author]
   name = "Carl Sampson"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  bio = "Carl Sampson's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
   avatar = "img/chs_avatar.jpg"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Carl Sampson's Personal blog about everything" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = false # Show "Read more" button in list if true
