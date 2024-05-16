@@ -91,3 +91,9 @@ name = "Carl Sampson"
     pre = "<i class='fa fa-road'></i>"
     url = "//birds/"
     weight = -100
+
+  [[menu.main]]
+    name = "home"
+    pre = "<i class='fa fa-road'></i>"
+    url = "///"
+    weight = -200
