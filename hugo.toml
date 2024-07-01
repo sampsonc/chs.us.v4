@@ -97,3 +97,9 @@ name = "Carl Sampson"
     pre = "<i class='fa fa-road'></i>"
     url = "///"
     weight = -200
+
+  [outputs]
+    home = ['html']
+    section = ['html']
+    taxonomy = ['html']
+    term = ['html']
