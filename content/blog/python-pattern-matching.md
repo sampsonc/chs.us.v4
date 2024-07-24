@@ -1,6 +1,6 @@
 +++
 title = 'Exploring Python Pattern Matching'
-date = 2024-05-13T22:36:48-04:00
+date = 2024-07-14T22:36:48-04:00
 draft = false
 type = "post"
 +++
