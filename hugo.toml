@@ -2,7 +2,7 @@ baseurl = "/"
 title = "chs.us"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = ["mainroad", "hugo-shortcode-gallery"]
+theme = ["mainroad"]
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 mainSections = ["post", "blog", "news"]
 name = "Carl Sampson"
@@ -84,12 +84,6 @@ name = "Carl Sampson"
     name = "links"
     pre = "<i class='fa fa-road'></i>"
     url = "//links/"
-    weight = -100
-
-  [[menu.main]]
-    name = "birds"
-    pre = "<i class='fa fa-road'></i>"
-    url = "//birds/"
     weight = -100
 
   [[menu.main]]
