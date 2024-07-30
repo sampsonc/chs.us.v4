@@ -83,7 +83,7 @@ name = "Carl Sampson"
   [[menu.main]]
     name = "links"
     pre = "<i class='fa fa-road'></i>"
-    url = "//links/"
+    url = "//linkss/"
     weight = -100
 
   [[menu.main]]
