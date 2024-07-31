@@ -16,17 +16,11 @@ jobs:
 
       # SETUP HUGO
 
-      # Read environemnt variable for subsequent actions.
-      # See: https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-environment-variable 
-      - name: Read .env
-        run: |
-          . ./.env
-          echo "HUGO_VERSION=${HUGO_VERSION}" >> $GITHUB_ENV          
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v4
         with:
-          hugo-version: '${{ env.HUGO_VERSION }}'
+          hugo-version: '${{ secrets.HUGO_VERSION }}'
           extended: true
 
       - name: Cache Hugo
