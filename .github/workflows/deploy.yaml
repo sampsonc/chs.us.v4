@@ -38,7 +38,7 @@ jobs:
       run: mkdir public/.well-known & cp content/.well-known/* public/.well-known
  
     - name: Deploy to Server
-        uses: easingthemes/ssh-deploy@v2.1.6
+        uses: easingthemes/ssh-deploy@main
         env:
             SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY }}
             ARGS: "-avz --delete"
