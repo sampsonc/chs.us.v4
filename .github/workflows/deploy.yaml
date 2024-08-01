@@ -39,7 +39,7 @@ jobs:
  
     - name: Deploy to Server
       uses: easingthemes/ssh-deploy@main
-        env:
+      env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY }}
           ARGS: "-avz --delete"
           SOURCE: "public/"
