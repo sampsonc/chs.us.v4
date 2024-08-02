@@ -2,7 +2,7 @@ baseurl = "/"
 title = "chs.us"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = ["archie"]
+theme = ["mainroad"]
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 mainSections = ["post", "blog", "news"]
 
