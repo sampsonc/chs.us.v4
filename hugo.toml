@@ -13,7 +13,7 @@ mainSections = ["post", "blog", "news"]
   bio = "I'm an application security geek."
 
 [params.author]
-  name = "Carl Sampson"
+  name = "Carl Sampsona"
   avatar = "img/chs_avatar.jpg"
 
 [Params]
