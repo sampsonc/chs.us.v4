@@ -5,18 +5,15 @@ paginate = "10" # Number of posts per page
 theme = ["mainroad"]
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 mainSections = ["post", "blog", "news"]
-name = "Carl Sampson"
 
 [services.googleAnalytics]
   ID = "G-VZ6PZ8R38Y" # Enable Google Analytics by entering your tracking ID
 
 [Author]
-  name = "Carl Sampson"
   bio = "I'm an application security geek."
 
 [params.author]
   name = "Carl Sampson"
-  bio = "Carl Sampson's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
   avatar = "img/chs_avatar.jpg"
 
 [Params]
