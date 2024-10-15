@@ -80,7 +80,7 @@ mainSections = ["post", "blog", "news"]
   [[menu.main]]
     name = "links"
     pre = "<i class='fa fa-road'></i>"
-    url = "//linkss/"
+    url = "//links/"
     weight = -100
 
   [[menu.main]]
@@ -88,6 +88,12 @@ mainSections = ["post", "blog", "news"]
     pre = "<i class='fa fa-road'></i>"
     url = "///"
     weight = -200
+
+  [[menu.main]]
+    name = "Log In"
+    pre = "<i class='fa fa-road'></i>"
+    url = "https://login.chs.us/"
+    weight = -100
 
   [outputs]
     home = ['html']
