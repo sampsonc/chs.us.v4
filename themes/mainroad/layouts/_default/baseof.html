@@ -35,7 +35,7 @@
 	{{- end }}
 
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .hugo.IsServer }}
+	{{- if not .site.IsServer }}
 		{{ template "_internal/google_analytics.html" . }}
 	{{- end }}
 </head>
