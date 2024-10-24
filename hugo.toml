@@ -59,11 +59,11 @@ mainSections = ["post", "blog", "news"]
     url = "//blog/"
     weight = -100
 
-  [[menu.main]]
-    name = "Currently Reading"
-    pre = "<i class='fa fa-road'></i>"
-    url = "//currently_reading/"
-    weight = -100
+  #[[menu.main]]
+  #  name = "Currently Reading"
+  #  pre = "<i class='fa fa-road'></i>"
+  #  url = "//currently_reading/"
+  #  weight = -100
 
   [[menu.main]]
     name = "appsec.fyi"
