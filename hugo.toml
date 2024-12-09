@@ -25,7 +25,8 @@ mainSections = ["post", "blog", "news"]
   #authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-  mainSections = ["post", "docs"]
+  mainSections = ["docs"]
+  excludeFromHome = ["posts"]
 
 [Params.logo]
   subtitle = "Ramblings by chs" # Logo subtitle
