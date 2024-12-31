@@ -1,10 +1,11 @@
-+++
-title = 'Best Practices to Defend Against SSRF Attacks'
-date = 2024-12-30T21:38:26-05:00
-draft = false
+---
+title: 'Best Practices to Defend Against Server-Side Request Forgery (SSRF) Attacks'
+date: 2024-12-30T21:38:26-05:00
 tags: ["security", "SSRF"]
-+++
-# Best Practices to Defend Against Server-Side Request Forgery (SSRF) Attacks
+draft: false
+type: post
+author: Carl Sampson
+---
 
 Server-Side Request Forgery (SSRF) is a critical security vulnerability that has become increasingly prevalent in modern web applications. It allows attackers to manipulate server-side applications into sending unauthorized requests to internal or external systems. SSRF is particularly dangerous because it can bypass traditional security controls, such as firewalls, and exploit trusted relationships within an organization's infrastructure. This vulnerability has been recognized as one of the most severe threats in web application security, earning its place in the [OWASP Top 10](https://owasp.org/www-project-top-ten/) list of critical vulnerabilities.
 
